@@ -1,0 +1,9 @@
+Package: com.brend0n.fgooverflowscrolling
+Name: fgoOverflowScrolling
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 修复bgo、bgo(tw)游戏内滑动查看公告时没有惯性的问题
+Maintainer: Brend0n <brendonjkding@126.com>
+Author: Brend0n <brendonjkding@126.com>
+Section: Tweaks
